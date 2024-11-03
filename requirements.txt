@@ -1,0 +1,7 @@
+Django
+django-rest-framework
+flake8
+psycopg2
+drf-spectacular
+
+
